@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/techBastia/passwordToggle/static/css/main.f855e6bc.css",
-    "main.js": "/techBastia/passwordToggle/static/js/main.dd6f7173.js",
-    "static/js/453.e197444c.chunk.js": "/techBastia/passwordToggle/static/js/453.e197444c.chunk.js",
-    "static/media/logo.svg": "/techBastia/passwordToggle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/techBastia/passwordToggle/index.html",
-    "main.f855e6bc.css.map": "/techBastia/passwordToggle/static/css/main.f855e6bc.css.map",
-    "main.dd6f7173.js.map": "/techBastia/passwordToggle/static/js/main.dd6f7173.js.map",
-    "453.e197444c.chunk.js.map": "/techBastia/passwordToggle/static/js/453.e197444c.chunk.js.map"
+    "main.css": "/passwordToggle/static/css/main.f855e6bc.css",
+    "main.js": "/passwordToggle/static/js/main.3deee399.js",
+    "static/js/453.e197444c.chunk.js": "/passwordToggle/static/js/453.e197444c.chunk.js",
+    "static/media/logo.svg": "/passwordToggle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/passwordToggle/index.html",
+    "main.f855e6bc.css.map": "/passwordToggle/static/css/main.f855e6bc.css.map",
+    "main.3deee399.js.map": "/passwordToggle/static/js/main.3deee399.js.map",
+    "453.e197444c.chunk.js.map": "/passwordToggle/static/js/453.e197444c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.dd6f7173.js"
+    "static/js/main.3deee399.js"
   ]
 }
